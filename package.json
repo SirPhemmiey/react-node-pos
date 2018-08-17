@@ -1,0 +1,17 @@
+{
+  "name": "real-time-pos-system",
+  "version": "1.0.0",
+  "description": "Real time pos system with Node.js and React.js",
+  "main": "index.js",
+  "repository": "https://github.com/SirPhemmiey/react-node-pos-system.git",
+  "author": "SirPhemmiey",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "^0.0.0",
+    "nedb": "^1.8.0",
+    "nodemon": "^1.18.3",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  }
+}
